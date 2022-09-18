@@ -3,7 +3,7 @@
 
 <h2>Who am I?</h2>
 <p>👨🏻‍💻 𝐃𝐚𝐭𝐚 𝐋𝐨𝐯𝐢𝐧𝐠 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</p>
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+<a href="https://changy0ng.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcmun2&count_bg=%23C2C4BF&title_bg=%230F06FF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

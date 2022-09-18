@@ -55,7 +55,7 @@
 
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://changy0ng.tistory.com/)](https://changy0ng.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cmun2@illinois.edu)](mailto:cmun2@illinois.edu)
+[![Gmail Badge](https://img.shields.io/badge/cmun2@illinois.edu-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cmun2@illinois.edu)](mailto:cmun2@illinois.edu)
 
 
 

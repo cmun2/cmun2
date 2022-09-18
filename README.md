@@ -3,13 +3,13 @@
 
 <h2>Who am I?</h2>
 <p>👨🏻‍💻 𝐃𝐚𝐭𝐚 𝐋𝐨𝐯𝐢𝐧𝐠 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</p>
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </br>
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcmun2&count_bg=%23C2C4BF&title_bg=%230F06FF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<h3><b>Lang</b></h3>
+# ✍Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -19,7 +19,9 @@
 
   
 </p>
-<h3><b>Tech Stack</b></h3>
+
+# 💪Skills
+### Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
@@ -42,7 +44,13 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
 </p>
 
-<h3><p>User Log</p></h3>
+# :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://changy0ng.tistory.com/)](https://changy0ng.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cmun2@illinois.edu)](mailto:cmun2@illinois.edu)
+
+
+
+# 📌 User Log
 
 ![cmun2's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmun2&show_icons=true&theme=radical)
 

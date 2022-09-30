@@ -11,6 +11,7 @@
 * lighthouse performance & profiler
 * PWA
 * SSR
+* Typescript
 
 
 </br>

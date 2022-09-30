@@ -8,7 +8,7 @@
 </br>
 <h2>𝐖𝐡𝐚𝐭 𝐚𝐦 𝐈 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧?</h2>
 
-* CI/CD
+* lighthouse performance & profiler
 * PWA
 * SSR
 

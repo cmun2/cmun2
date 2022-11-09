@@ -10,6 +10,7 @@
 
 * SSR
 * Typescript
+* Algorithm
 
 
 </br>

@@ -10,6 +10,8 @@
 
 * Typescript
 * Vue3
+* Vuex
+* Vue Router
 * SCSS
 
 

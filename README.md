@@ -6,9 +6,12 @@
 <p>👨🏻‍💻 𝐃𝐚𝐭𝐚 𝐋𝐨𝐯𝐢𝐧𝐠 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</p>
 <a href="https://changy0ng.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </br>
-<h2>𝐖𝐡𝐚𝐭 𝐚𝐦 𝐈 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧?</h2>
+<h2>𝐖𝐡𝐚𝐭 𝐚𝐦 𝐈 working on?</h2>
 
-* Vueform
+* Next.JS
+* TailwindCSS
+* WebSocket.io
+* Zustand / Recoil
 * Clean Code/Refactoring
 
 

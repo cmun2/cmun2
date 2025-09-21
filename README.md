@@ -4,11 +4,15 @@
 
 <h2>𝐖𝐡𝐨 𝐚𝐦 𝐈?</h2>
 <p>👨🏻‍💻 𝐃𝐚𝐭𝐚 𝐋𝐨𝐯𝐢𝐧𝐠 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</p>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://cmun2.inblog.io/)](https://cmun2.inblog.io/)
+
+[![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github)](https://cmun2.inblog.io/)
 <a href="https://changy0ng.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </br>
-<h2>Portfolio: https://amethyst-earthworm-ff1.notion.site/Chang-Yong-Mun-Portfolio-1fb8c24c299d809bb058c8b9bc0572a2?source=copy_link</h2>
+
 <h2>𝐖𝐡𝐚𝐭 𝐚𝐦 𝐈 working on?</h2>
+Portfolio: https://amethyst-earthworm-ff1.notion.site/Chang-Yong-Mun-Portfolio-1fb8c24c299d809bb058c8b9bc0572a2?source=copy_link
+
+</br></br>
 
 * Next.JS
 * TailwindCSS
@@ -19,7 +23,8 @@
 
 </br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcmun2&count_bg=%23C2C4BF&title_bg=%230F06FF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fcmun2?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+
 
 
 # ✍Languages

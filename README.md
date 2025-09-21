@@ -49,9 +49,9 @@ Portfolio: https://amethyst-earthworm-ff1.notion.site/Chang-Yong-Mun-Portfolio-1
 
 <h3><b>Authentication/Hosting Tools</b></h3>
 <p>
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBkPSJNMTI4IDBMMCA2NHYxMjguNmwxMjggNjMuNGwxMjgtNjMuNFY2NEwxMjggMHptMCAzMi44bDk2IDQ3LjJ2OTYuNGwtOTYgNDcuMi05Ni00Ny4yVjgwbDk2LTQ3LjJ6Ii8+PC9zdmc+&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cmVjdCB4PSI2NCIgeT0iNjQiIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiByeD0iOCIvPjwvc3ZnPg==&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBkPSJNODAgMjAwdjgwbDEwNC0xMjBWNzJoLTQ4TDgwIDIwMHoiLz48L3N2Zz4=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
 </p>
@@ -67,7 +67,7 @@ Portfolio: https://amethyst-earthworm-ff1.notion.site/Chang-Yong-Mun-Portfolio-1
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
 <h3><b>Data Tech Stacks</b></h3>

@@ -4,7 +4,7 @@
 
 <h2>𝐖𝐡𝐨 𝐚𝐦 𝐈?</h2>
 <p>👨🏻‍💻 𝐃𝐚𝐭𝐚 𝐋𝐨𝐯𝐢𝐧𝐠 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</p>
-<a href="https://cmun2.inblog.io/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://cmun2.inblog.io/)](https://cmun2.inblog.io/)
 <a href="https://changy0ng.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </br>
 <h2>Portfolio: https://amethyst-earthworm-ff1.notion.site/Chang-Yong-Mun-Portfolio-1fb8c24c299d809bb058c8b9bc0572a2?source=copy_link</h2>
@@ -83,8 +83,7 @@
 </p>
 
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://changy0ng.tistory.com/)](https://changy0ng.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/cmun2@illinois.edu-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:cmun2@illinois.edu)](mailto:cmun2@illinois.edu)
+[![Gmail Badge](https://img.shields.io/badge/peter12130627@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:peter12130627@gmail.com)](mailto:peter12130627@gmail.com)
 
 
 

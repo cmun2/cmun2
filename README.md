@@ -4,8 +4,10 @@
 
 <h2>𝐖𝐡𝐨 𝐚𝐦 𝐈?</h2>
 <p>👨🏻‍💻 𝐃𝐚𝐭𝐚 𝐋𝐨𝐯𝐢𝐧𝐠 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</p>
+<a href="https://cmun2.inblog.io/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 <a href="https://changy0ng.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </br>
+<h2>Portfolio: https://amethyst-earthworm-ff1.notion.site/Chang-Yong-Mun-Portfolio-1fb8c24c299d809bb058c8b9bc0572a2?source=copy_link</h2>
 <h2>𝐖𝐡𝐚𝐭 𝐚𝐦 𝐈 working on?</h2>
 
 * Next.JS

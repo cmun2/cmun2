@@ -10,7 +10,7 @@
 </br>
 
 <h2>𝐖𝐡𝐚𝐭 𝐚𝐦 𝐈 working on?</h2>
-Portfolio: https://amethyst-earthworm-ff1.notion.site/Chang-Yong-Mun-Portfolio-1fb8c24c299d809bb058c8b9bc0572a2?source=copy_link
+Portfolio: https://changyong-portfolio.vercel.app/ko
 
 </br></br>
 

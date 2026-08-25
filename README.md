@@ -35,15 +35,17 @@ More at [cmun2.inblog.io](https://cmun2.inblog.io) — 35+ posts in Korean on mi
 ### Recent activity
 
 <!-- activity starts -->
+Pushed to [cmun2/unfaked](https://github.com/cmun2/unfaked) — 2026-08-25
+
+PR [openai/openai-node#2463](https://github.com/openai/openai-node/pull/2463) fix(zod): parse extracted definitions in their property position — 2026-08-25
+
+Issue [openai/openai-node#2462](https://github.com/openai/openai-node/issues/2462) Zod v3: a `.nullable().optional()` schema shared by two fields is encoded two different ways, and one of them uses `not` — 2026-08-25
+
 Pushed to [cmun2/mcp-schema-census](https://github.com/cmun2/mcp-schema-census) — 2026-08-25
 
 PR [anthropics/anthropic-sdk-typescript#1163](https://github.com/anthropics/anthropic-sdk-typescript/pull/1163) fix(schema): keep $defs when the schema root is a $ref — 2026-08-24
 
 Issue [anthropics/anthropic-sdk-typescript#1162](https://github.com/anthropics/anthropic-sdk-typescript/issues/1162) transformJSONSchema drops $defs when the schema root is a $ref — 2026-08-24
-
-PR [anthropics/anthropic-sdk-python#1877](https://github.com/anthropics/anthropic-sdk-python/pull/1877) fix(lib): normalise JSON Schema type arrays instead of hitting assert_never — 2026-08-23
-
-Issue [anthropics/anthropic-sdk-python#1876](https://github.com/anthropics/anthropic-sdk-python/issues/1876) transform_schema raises AssertionError on type arrays (e.g. type: ["string","null"]) — 2026-08-23
 <!-- activity ends -->
 
 </td></tr></table>

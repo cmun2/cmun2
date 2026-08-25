@@ -50,8 +50,13 @@ Issue [anthropics/anthropic-sdk-python#1876](https://github.com/anthropics/anthr
 
 ### Stack
 
-TypeScript · React · Next.js · Vue · Nuxt · Node.js · Python
-Server-Sent Events · agent event streams · AG-UI · Module Federation · Playwright · n8n
+**AI & real-time** — LLM application development · agent event streams (AG-UI) · Server-Sent Events · Model Context Protocol · Codex · Claude Code · n8n
+
+**Languages & frameworks** — TypeScript · JavaScript · Python · React · Next.js · Vue · Nuxt · Node.js
+
+**Platform & quality** — Module Federation · micro-frontends · design systems (npm) · Playwright · Vitest · CI/CD
+
+Before frontend I did machine-learning research at [CHANGlab](https://qbio.io/), Seoul National University — nanopore RNA sequencing data, FASTQ/BAM/SAM pipelines, and distribution analysis over pandas. It is why schema and data-shape bugs are the ones I tend to notice first.
 
 ### Contact
 

@@ -35,7 +35,7 @@ More at [cmun2.inblog.io](https://cmun2.inblog.io) — 35+ posts in Korean on mi
 ### Recent activity
 
 <!-- activity starts -->
-Pushed to [cmun2/unfaked](https://github.com/cmun2/unfaked) — 2026-08-25
+PR [cmun2/unfaked#1](https://github.com/cmun2/unfaked/pull/1) Let --json-file create the directory it was given — 2026-08-26
 
 PR [openai/openai-node#2463](https://github.com/openai/openai-node/pull/2463) fix(zod): parse extracted definitions in their property position — 2026-08-25
 

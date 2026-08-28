@@ -35,17 +35,11 @@ More at [cmun2.inblog.io](https://cmun2.inblog.io) — 35+ posts in Korean on mi
 ### Recent activity
 
 <!-- activity starts -->
+Pushed to [cmun2/openai-node](https://github.com/cmun2/openai-node) — 2026-08-28
+
+PR [openai/openai-agents-js#1763](https://github.com/openai/openai-agents-js/pull/1763) fix(realtime): keep conversation order when updateHistory corrects or inserts an item — 2026-08-27
+
 PR [cmun2/unfaked#1](https://github.com/cmun2/unfaked/pull/1) Let --json-file create the directory it was given — 2026-08-26
-
-PR [openai/openai-node#2463](https://github.com/openai/openai-node/pull/2463) fix(zod): parse extracted definitions in their property position — 2026-08-25
-
-Issue [openai/openai-node#2462](https://github.com/openai/openai-node/issues/2462) Zod v3: a `.nullable().optional()` schema shared by two fields is encoded two different ways, and one of them uses `not` — 2026-08-25
-
-Pushed to [cmun2/mcp-schema-census](https://github.com/cmun2/mcp-schema-census) — 2026-08-25
-
-PR [anthropics/anthropic-sdk-typescript#1163](https://github.com/anthropics/anthropic-sdk-typescript/pull/1163) fix(schema): keep $defs when the schema root is a $ref — 2026-08-24
-
-Issue [anthropics/anthropic-sdk-typescript#1162](https://github.com/anthropics/anthropic-sdk-typescript/issues/1162) transformJSONSchema drops $defs when the schema root is a $ref — 2026-08-24
 <!-- activity ends -->
 
 </td></tr></table>

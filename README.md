@@ -17,6 +17,8 @@ Currently at **AhnLab**, on an EDR security platform. I build the interface for 
 ### Writing
 
 <!-- blog starts -->
+[I Was Wrong About MCP Schemas — Here's What 617 Servers Actually Show](https://cmun2.inblog.io/278745) — 2026-08-28
+
 [An LLM in the Code Review Loop: The Parts That Aren't the Model](https://cmun2.inblog.io/272259) — 2026-08-10
 
 [Streaming to the Browser: SSE for Telemetry and for Agents](https://cmun2.inblog.io/272256) — 2026-07-13
@@ -24,8 +26,6 @@ Currently at **AhnLab**, on an EDR security platform. I build the interface for 
 [Module Federation in Production: What Actually Changed](https://cmun2.inblog.io/272066) — 2026-06-15
 
 [Next.JS 변경된 내용이 바로 반영이 안되는 문제 발생 해결](https://cmun2.inblog.io/nextjs-변경된-내용이-바로-반영이-안되는-문제-발생-해결-52894) — 2025-04-21
-
-[RequestAnimationFrame vs SetInterval](https://cmun2.inblog.io/requestanimationframe-vs-setinterval-52712) — 2025-04-17
 <!-- blog ends -->
 
 More at [cmun2.inblog.io](https://cmun2.inblog.io) — 35+ posts in Korean on micro-frontends, SSE and hydration, CI/CD and testing practice, plus an English series. Each one starts from something that broke in production rather than from documentation.
@@ -35,7 +35,7 @@ More at [cmun2.inblog.io](https://cmun2.inblog.io) — 35+ posts in Korean on mi
 ### Recent activity
 
 <!-- activity starts -->
-Pushed to [cmun2/openai-node](https://github.com/cmun2/openai-node) — 2026-08-28
+PR [openai/openai-node#2512](https://github.com/openai/openai-node/pull/2512) fix(zod): keep every declared tuple position — 2026-08-28
 
 PR [openai/openai-agents-js#1763](https://github.com/openai/openai-agents-js/pull/1763) fix(realtime): keep conversation order when updateHistory corrects or inserts an item — 2026-08-27
 

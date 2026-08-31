@@ -37,6 +37,8 @@ More at [cmun2.inblog.io](https://cmun2.inblog.io) — 35+ posts in Korean on mi
 ### Recent activity
 
 <!-- activity starts -->
+PR [huggingface/hf-mcp-server#238](https://github.com/huggingface/hf-mcp-server/pull/238) fix(stdio): keep serving MCP when the web dashboard port is taken — 2026-08-30
+
 PR [openai/openai-node#2512](https://github.com/openai/openai-node/pull/2512) fix(zod): keep every declared tuple position — 2026-08-28
 
 PR [openai/openai-agents-js#1763](https://github.com/openai/openai-agents-js/pull/1763) fix(realtime): keep conversation order when updateHistory corrects or inserts an item — 2026-08-27

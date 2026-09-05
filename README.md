@@ -37,6 +37,8 @@ More at [cmun2.inblog.io](https://cmun2.inblog.io) — 35+ posts in Korean on mi
 ### Recent activity
 
 <!-- activity starts -->
+Issue [colinhacks/zod#6560](https://github.com/colinhacks/zod/issues/6560) toJSONSchema: `io: "input"` drops the checks declared after a `.pipe()` — 2026-09-04
+
 PR [huggingface/hf-mcp-server#238](https://github.com/huggingface/hf-mcp-server/pull/238) fix(stdio): keep serving MCP when the web dashboard port is taken — 2026-08-30
 
 PR [openai/openai-node#2512](https://github.com/openai/openai-node/pull/2512) fix(zod): keep every declared tuple position — 2026-08-28

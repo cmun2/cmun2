@@ -37,6 +37,10 @@ More at [cmun2.inblog.io](https://cmun2.inblog.io) — 35+ posts in Korean on mi
 ### Recent activity
 
 <!-- activity starts -->
+Issue [google/adk-js#857](https://github.com/google/adk-js/issues/857) A throwing tool ends the invocation in adk-python and is recovered from in adk-js — 2026-09-05
+
+PR [anthropics/claude-agent-sdk-typescript#451](https://github.com/anthropics/claude-agent-sdk-typescript/pull/451) fix: keep S3 session parts ordered across writers — 2026-09-05
+
 Issue [colinhacks/zod#6560](https://github.com/colinhacks/zod/issues/6560) toJSONSchema: `io: "input"` drops the checks declared after a `.pipe()` — 2026-09-04
 
 PR [huggingface/hf-mcp-server#238](https://github.com/huggingface/hf-mcp-server/pull/238) fix(stdio): keep serving MCP when the web dashboard port is taken — 2026-08-30
@@ -44,8 +48,6 @@ PR [huggingface/hf-mcp-server#238](https://github.com/huggingface/hf-mcp-server/
 PR [openai/openai-node#2512](https://github.com/openai/openai-node/pull/2512) fix(zod): keep every declared tuple position — 2026-08-28
 
 PR [openai/openai-agents-js#1763](https://github.com/openai/openai-agents-js/pull/1763) fix(realtime): keep conversation order when updateHistory corrects or inserts an item — 2026-08-27
-
-PR [cmun2/unfaked#1](https://github.com/cmun2/unfaked/pull/1) Let --json-file create the directory it was given — 2026-08-26
 <!-- activity ends -->
 
 </td></tr></table>

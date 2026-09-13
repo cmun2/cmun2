@@ -37,17 +37,17 @@ More at [cmun2.inblog.io](https://cmun2.inblog.io) — 35+ posts in Korean on mi
 ### Recent activity
 
 <!-- activity starts -->
-Pushed to [cmun2/cmun2.github.io](https://github.com/cmun2/cmun2.github.io) — 2026-09-11
+Pushed to [cmun2/cmun2.github.io](https://github.com/cmun2/cmun2.github.io) — 2026-09-12
 
-Issue [google/adk-js#857](https://github.com/google/adk-js/issues/857) A throwing tool ends the invocation in adk-python and is recovered from in adk-js — 2026-09-05
+PR [cmun2/whatif-cam#2](https://github.com/cmun2/whatif-cam/pull/2) Stop the freeze, and draw the overlay at device resolution — 2026-09-12
 
-PR [anthropics/claude-agent-sdk-typescript#451](https://github.com/anthropics/claude-agent-sdk-typescript/pull/451) fix: keep S3 session parts ordered across writers — 2026-09-05
+PR [cmun2/agent-hours#1](https://github.com/cmun2/agent-hours/pull/1) Absorb agent-tape: watch a real session back, not a demo — 2026-09-12
 
-Issue [colinhacks/zod#6560](https://github.com/colinhacks/zod/issues/6560) toJSONSchema: `io: "input"` drops the checks declared after a `.pipe()` — 2026-09-04
+PR [cmun2/whatif-cam#1](https://github.com/cmun2/whatif-cam/pull/1) v0.0 "Ghost Ball" — the first thing anyone can open — 2026-09-12
 
-PR [huggingface/hf-mcp-server#238](https://github.com/huggingface/hf-mcp-server/pull/238) fix(stdio): keep serving MCP when the web dashboard port is taken — 2026-08-30
+PR [cmun2/browser-parity#3](https://github.com/cmun2/browser-parity/pull/3) An optional AI investigator — and the measurement that says how optional it is — 2026-09-12
 
-PR [openai/openai-node#2512](https://github.com/openai/openai-node/pull/2512) fix(zod): keep every declared tuple position — 2026-08-28
+PR [cmun2/browser-parity#2](https://github.com/cmun2/browser-parity/pull/2) Does the M0 result survive on pages a real coding agent wrote? — 2026-09-12
 <!-- activity ends -->
 
 </td></tr></table>

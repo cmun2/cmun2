@@ -37,7 +37,7 @@ More at [cmun2.inblog.io](https://cmun2.inblog.io) — 35+ posts in Korean on mi
 ### Recent activity
 
 <!-- activity starts -->
-Pushed to [cmun2/cmun2.github.io](https://github.com/cmun2/cmun2.github.io) — 2026-09-12
+PR [cmun2/cmun2.github.io#3](https://github.com/cmun2/cmun2.github.io/pull/3) Make the index a ledger, and fix two things that were wrong for Korean — 2026-09-13
 
 PR [cmun2/whatif-cam#2](https://github.com/cmun2/whatif-cam/pull/2) Stop the freeze, and draw the overlay at device resolution — 2026-09-12
 

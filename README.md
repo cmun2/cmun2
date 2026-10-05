@@ -41,13 +41,13 @@ PR [cmun2/browser-parity#5](https://github.com/cmun2/browser-parity/pull/5) M1 o
 
 PR [cmun2/browser-parity#4](https://github.com/cmun2/browser-parity/pull/4) Ship a CLI, and let the README say what M0 found — 2026-09-19
 
+Pushed to [cmun2/openai-node](https://github.com/cmun2/openai-node) — 2026-09-15
+
 PR [cmun2/cmun2.github.io#3](https://github.com/cmun2/cmun2.github.io/pull/3) Make the index a ledger, and fix two things that were wrong for Korean — 2026-09-13
 
 PR [cmun2/whatif-cam#2](https://github.com/cmun2/whatif-cam/pull/2) Stop the freeze, and draw the overlay at device resolution — 2026-09-12
 
 PR [cmun2/agent-hours#1](https://github.com/cmun2/agent-hours/pull/1) Absorb agent-tape: watch a real session back, not a demo — 2026-09-12
-
-PR [cmun2/whatif-cam#1](https://github.com/cmun2/whatif-cam/pull/1) v0.0 "Ghost Ball" — the first thing anyone can open — 2026-09-12
 <!-- activity ends -->
 
 </td></tr></table>

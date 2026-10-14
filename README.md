@@ -44,8 +44,6 @@ PR [cmun2/browser-parity#4](https://github.com/cmun2/browser-parity/pull/4) Ship
 Pushed to [cmun2/openai-node](https://github.com/cmun2/openai-node) — 2026-09-15
 
 Pushed to [cmun2/whatif-cam](https://github.com/cmun2/whatif-cam) — 2026-09-12
-
-PR [cmun2/cmun2.github.io#3](https://github.com/cmun2/cmun2.github.io/pull/3) Make the index a ledger, and fix two things that were wrong for Korean — 2026-09-13
 <!-- activity ends -->
 
 </td></tr></table>

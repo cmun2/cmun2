@@ -42,8 +42,6 @@ PR [cmun2/browser-parity#5](https://github.com/cmun2/browser-parity/pull/5) M1 o
 PR [cmun2/browser-parity#4](https://github.com/cmun2/browser-parity/pull/4) Ship a CLI, and let the README say what M0 found — 2026-09-19
 
 Pushed to [cmun2/openai-node](https://github.com/cmun2/openai-node) — 2026-09-15
-
-Pushed to [cmun2/whatif-cam](https://github.com/cmun2/whatif-cam) — 2026-09-12
 <!-- activity ends -->
 
 </td></tr></table>

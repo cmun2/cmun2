@@ -37,9 +37,7 @@ More at [cmun2.inblog.io](https://cmun2.inblog.io) — 35+ posts in Korean on mi
 ### Recent activity
 
 <!-- activity starts -->
-PR [cmun2/browser-parity#5](https://github.com/cmun2/browser-parity/pull/5) M1 options, an offline test suite, and a picture of what it finds — 2026-09-19
-
-PR [cmun2/browser-parity#4](https://github.com/cmun2/browser-parity/pull/4) Ship a CLI, and let the README say what M0 found — 2026-09-19
+Pushed to [cmun2/browser-parity](https://github.com/cmun2/browser-parity) — 2026-09-19
 <!-- activity ends -->
 
 </td></tr></table>

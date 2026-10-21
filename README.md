@@ -37,7 +37,7 @@ More at [cmun2.inblog.io](https://cmun2.inblog.io) — 35+ posts in Korean on mi
 ### Recent activity
 
 <!-- activity starts -->
-Pushed to [cmun2/browser-parity](https://github.com/cmun2/browser-parity) — 2026-09-19
+_Nothing public in the last 90 days._
 <!-- activity ends -->
 
 </td></tr></table>
